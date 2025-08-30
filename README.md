@@ -1,10 +1,6 @@
 # Assignmenet 1
 
-## Team member name
-```bash
-    ├──Joel Tenny (23b1002)
-    └──Priyanshu kumar (23b0970)
-```
+
 ## Declaration
 We declare that we have written this assignment code ourselves. We have taken assistance from the following sources:
 
